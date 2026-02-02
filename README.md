@@ -6,9 +6,13 @@
 [![PyQt5](https://img.shields.io/badge/PyQt5-GUI-41CD52?logo=qt&logoColor=white)](https://riverbankcomputing.com/software/pyqt/intro)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A high-performance, hybrid analytics system designed for chemical engineers to visualize and process equipment parameter data. Features a **Django REST API**, an interactive **React Dashboard**, and a native **PyQt5 Desktop Application**.
+A high-performance, hybrid analytics system designed for chemical engineers to visualize and process equipment parameter data. Features a **Django REST API**, an interactive **React Dashboard**, and a native **PyQt5 Desktop Application**
+live website: https://chem-visualizer.onrender.com/ 
 
----
+### 🌍 Live Deployment
+- **Web Application**: [https://chem-visualizer.onrender.com](https://chem-visualizer.onrender.com)
+- **Backend API**: [https://chem-backend-2.onrender.com](https://chem-backend-2.onrender.com)
+
 
 ## 🏗️ System Architecture
 
